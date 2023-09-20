@@ -20,4 +20,4 @@ My website is [here](https://ewancroft.neocities.org), go check it out sometime!
 
 You can also find me on Mastodon:
 
-[Mastodon](https://mastodon.world/@Ewan_Croft)
+[Mastodon](https://hachyderm.io/@EwanCroft)
