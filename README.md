@@ -18,6 +18,6 @@ My website is [here](https://ewancroft.neocities.org), go check it out sometime!
 
 ## Connect with Me
 
-You can also find me on Mastodon:
+You can also find me on the Fediverse:
 
-[Mastodon](https://hachyderm.io/@EwanCroft)
+[Firefish](https://cybre.club/@ewan)
