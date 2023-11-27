@@ -9,4 +9,4 @@ My website is [here](https://ewancroft.neocities.org), go check it out sometime!
 
 You can also find me on the Fediverse:
 
-[Firefish](https://cybre.club/@ewan)
+[Iceshrimp](https://iceshrimp.social/@ewan)
