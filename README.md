@@ -7,6 +7,4 @@ My website is [here](https://ewancroft.github.io), go check it out sometime!
 
 ## Connect with Me
 
-You can also find me on the Fediverse:
-
-[Iceshrimp](https://iceshrimp.social/@ewan)
+You can also find me on the Fediverse [here](https://beige.party/@ewan)!
