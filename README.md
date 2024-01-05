@@ -7,4 +7,4 @@ My website is <https://ewancroft.github.io>, go check it out sometime!
 
 ## Connect with Me
 
-You can also find me on the Open Social Web (also known as the [Fediverse](https://fediverse.info)) as [@ewan@beige.party](https://beige.party/@ewan)!
+You can also find me on the Open Social Web (also known as the [Fediverse](https://fediverse.info)) as [@ewan@catodon.social](https://catodon.social/@ewan)!
