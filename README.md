@@ -3,7 +3,7 @@
 I am a British programmer and hobbyist poet. I was born in Spain, and raised in the UK (I am of English-Scottish heritage.)
 I mainly use GitHub to fool around, it's not really a professional thing for me.
 
-My website is <https://ewancroft.github.io>, go check it out sometime!
+My website is <https://ewancroft.uk>, go check it out sometime!
 
 ## Connect with Me
 
